@@ -1,7 +1,9 @@
+<div><img src="https://raw.githubusercontent.com/Paritosh-gif/Paritosh-gif/master/assert/hello.gif"/></div>
+
 <h1 align="center"> 
-  **_I'm Paritosh Pandey_**  
+   I'm Paritosh Pandey
  </h1>
- ----
+
  <h3><b>Personal Stuffs:</b></h3>
 
 • 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter) <br> 
